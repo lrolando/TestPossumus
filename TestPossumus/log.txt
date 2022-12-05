@@ -1,0 +1,55 @@
+
+Log Entry : 11:08:27 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Candidatos
+-------------------------------
+
+Log Entry : 11:08:35 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Empleados
+-------------------------------
+
+Log Entry : 11:10:26 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Empleados
+-------------------------------
+
+Log Entry : 11:24:44 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Candidatos
+-------------------------------
+
+Log Entry : 11:25:20 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto Update-Empleos
+-------------------------------
+
+Log Entry : 11:25:57 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto Update-Candidatos
+-------------------------------
+
+Log Entry : 11:25:57 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Candidatos
+-------------------------------
+
+Log Entry : 11:26:20 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetById-Candidatos
+-------------------------------
+
+Log Entry : 11:26:33 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetById-Candidatos
+-------------------------------
+
+Log Entry : 11:27:03 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto Delete-Candidatos
+-------------------------------
+
+Log Entry : 11:27:15 lunes, 5 de diciembre de 2022
+  :
+  :Se ejecuto GetAll-Candidatos
+-------------------------------
